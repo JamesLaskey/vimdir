@@ -1,3 +1,6 @@
+# This is just storage for personal tweaks
+Go to https://github.com/amix/ for the original version. Over time I will be pruning down the stuff I don't use and tweaking it. As of now this repo is basically the same thing as the original version, so all credits go to amix.
+
 # The Ultimate vimrc
 
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
